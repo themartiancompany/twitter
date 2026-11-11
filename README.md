@@ -24,8 +24,8 @@
 # Twitter
 
 Twitter is a mathematically proven uncensorable
-social network platform on which posts are undeletable which
-has been written and published by
+social network platform on which posts are undeletable
+written and published by
 [Pellegrino Prevete](
   https://github.com/tallero)
 with
