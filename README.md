@@ -93,7 +93,7 @@ where instead of a domain you have an `address`
 which is either an EOA fingerprint
 (i.e. a wallet or a smart contract address) or a
 [seed address](
-  https://github.com/themartiancompany/seed-system),
+  https://github.com/themartiancompany/ss),
 while `username` is an arbitrary username,
 in the encoding format supported by the specification
 version.
